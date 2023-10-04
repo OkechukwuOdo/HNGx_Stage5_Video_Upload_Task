@@ -16,9 +16,8 @@ import org.springframework.scheduling.annotation.EnableAsync;
 				description = "This app provides stores video files",
 				title = "Video Backend App",
 				version = "1.0",
-				contact = @Contact(name = "Ifeanyichukwu Obeta",
-						email = "angeloobeta@hotmail.com",
-						url = "https://github.com/angeloobeta/https://github.com/angeloobeta/Hng_Task_5_videoUploaderTask")
+				contact = @Contact(name = "Okechukwu Osmond",
+						url = "https://github.com/OkechukwuOdo/HNGx_Stage5_Video_Upload_Task.git")
 		),
 		servers = {
 				@Server(
